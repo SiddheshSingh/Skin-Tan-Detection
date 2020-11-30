@@ -1,5 +1,5 @@
 # Skin-Tan-Detection
-Detection of change in Skin Tone (Tanning) of a person, irrespective of the lighting of an image
+Detection of change in Skin Tone (Tanning) of a person, irrespective of the lighting of an image.
 
 ## Description
 Detecting skin tone in an image has been a great problem, as every image (even of the same person) has different conditions (Camera Quality, Light Exposure, etc). This project is focused on detecting the differences in the skin tone (telling you if you've grown darker or lighter significantly). <br> 
